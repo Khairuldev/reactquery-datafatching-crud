@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "sepatu sonic",
+      "price": 100000,
+      "description": "sepatu sonic dapat berlari secepat angin",
+      "image": "https://www.blibli.com/friends-backend/wp-content/uploads/2022/08/5-Ciri-Sepatu-Warrior-Asli-Kamu-Wajib-Tahu.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "baju",
+      "price": 200000,
+      "description": "baju anti dibacok begal",
+      "image": "https://id-live-01.slatic.net/p/5f06f781893fcf0e364a5dc21c7089d3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "celana",
+      "price": 300000,
+      "description": "celana kuno zaman dinosaurus",
+      "image": "https://areioutdoorgear.co.id/wp-content/uploads/2023/03/WhatsApp-Image-2023-02-28-at-15.09.31.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "kaca mata",
+      "price": 400000,
+      "description": "kacamata supermen ada lasernya",
+      "image": "https://akcdn.detik.net.id/visual/2018/01/08/4aec569d-d021-4a9a-8a8f-8bd36345aa47_169.jpeg?w=650"
+    },
+    {
+      "id": 5,
+      "name": "kalung imortal",
+      "price": "700000",
+      "description": "kalung imortal bisa hidup kembali",
+      "image": "https://images.tokopedia.net/img/cache/700/product-1/2018/12/19/2940509/2940509_e837d210-d27d-4307-b723-cf93b6a85d6c_700_700.jpg"
+    }
+  ]
+}
